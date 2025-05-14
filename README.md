@@ -22,7 +22,7 @@ The aim of this project is to implement knowledge bases so that an AI model coul
     * B then says “C is a knave.”
     * C says “A is a knight.”
 * In each of the above puzzles, each character is either a knight or a knave. Every sentence spoken by a knight is true, and every sentence spoken by a knave is false.
-* 
+
 ### Usage:
 
-* Run python puzzle.py to see the solution to the puzzle.
+* Run `python puzzle.py` to see the solution to the puzzle.
